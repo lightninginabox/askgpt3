@@ -1,4 +1,4 @@
-<h1 align="center">Ask Me Anything GPT-3</h1>
+<h1 align="center">Ask GPT3</h1>
 
 <div align="cetner">
   <p align="center">A simple wrapper for OpenAI GPT-3 question/answer engine.</p>
